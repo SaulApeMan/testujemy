@@ -1,0 +1,7 @@
+Lemes: 2150
+Glare: 1850
+Robinson: 2200
+Smurf: 2250
+Krolu: 1980
+Nov: 2000
+Ves: 1450
